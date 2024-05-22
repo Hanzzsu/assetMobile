@@ -1,0 +1,12 @@
+[
+    {"nama": "Kucing Putih",  "imageId": "1"},
+    {"nama": "Kucing Gaul",  "imageId": "2"},
+    {"nama": "Kucing Kasur",  "imageId": "3"},
+    {"nama": "Kucing Malu",  "imageId": "4"},
+    {"nama": "Kucing Marah",  "imageId": "5"},
+    {"nama": "Kucing Bangun", "imageId": "6"},
+    {"nama": "Kucing Rajin", "imageId": "7"},
+    {"nama": "Kucing Keren", "imageId": "8"},
+    {"nama": "Kucing Wibu", "imageId": "9"},
+    {"nama": "Kucing Lagi", "imageId": "10"}
+]
